@@ -1,9 +1,9 @@
 <?php
 
-$token = '14801965-yCHbPdF380n3Tp2cpPmkXSwlDsqM3aOm8UqxLrj8K';
-$token_secret = 'QEXtaILKPnAyBBJ8eBCbGbSaNZakWXJHHKhYyf4aaowiR';
-$consumer_key = 'zgrONuL2EkZ4TFLyHc70A';
-$consumer_secret = 'SxLUMp3G32bKPc32haMorlAnx4gAh7eNIZgmPgQh38E';
+$token = '';
+$token_secret = '';
+$consumer_key = '';
+$consumer_secret = '';
 
 $host = 'api.twitter.com';
 $method = 'GET';
